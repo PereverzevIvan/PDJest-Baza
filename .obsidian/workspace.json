@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Точка входа.md",
-                "mode": "preview",
+                "file": "Документация (БД).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Точка входа.md",
+                "file": "Документация (БД).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Точка входа.md",
+                "file": "Документация (БД).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Точка входа.md",
+                "file": "Документация (БД).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Точка входа.md"
+                "file": "Документация (БД).md"
               }
             }
           }
@@ -208,11 +208,12 @@
   },
   "active": "e8885ce07cc437a0",
   "lastOpenFiles": [
+    "Точка входа.md",
+    "Документация (БД).md",
+    "Документация.md",
     "Frontend.md",
     "Backend.md",
-    "Точка входа.md",
     "Документация (Frontend).md",
-    "Документация.md",
     "Документация (Backend).md",
     "Файлы/Pasted image 20240204141843.png",
     "Файлы/Pasted image 20240204141456.png",
@@ -243,7 +244,6 @@
     "Нормальные формы (НФ).md",
     "Алгоритмы и структуры данных.md",
     "Деревья отрезков, часть 1.md",
-    "Домашняя/Лекции в Политехе.md",
     "ExportPDF",
     "Файлы/Структура бд 7",
     "Файлы/Структура бд 6",
