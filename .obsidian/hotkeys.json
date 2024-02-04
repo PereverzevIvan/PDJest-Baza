@@ -1,60 +1,7 @@
 {
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad1"
-    }
-  ],
-  "editor:set-heading-2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad2"
-    }
-  ],
-  "editor:set-heading-3": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad3"
-    }
-  ],
-  "editor:set-heading-4": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad4"
-    }
-  ],
-  "editor:set-heading-5": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad5"
-    }
-  ],
-  "editor:set-heading-6": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad6"
-    }
-  ],
-  "editor:set-heading-0": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad0"
-    }
-  ],
+  "editor:open-link-in-new-leaf": [],
+  "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
+  "obsidian-editor-shortcuts:selectLine": [],
   "editor:insert-codeblock": [
     {
       "modifiers": [
@@ -63,70 +10,109 @@
       "key": "`"
     }
   ],
-  "graph:open": [],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
   "editor:insert-wikilink": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "J"
+      "key": "["
     }
   ],
-  "editor:insert-callout": [
+  "editor:toggle-blockquote": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "."
+      "key": "Q"
     }
   ],
-  "obsidian-pandoc:pandoc-export-pdf": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "PageUp"
-    }
-  ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [],
-      "key": "F12"
-    }
-  ],
-  "editing-toolbar:header0-text": [],
-  "app:toggle-left-sidebar": [
+  "editor:insert-mathblock": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Tab"
+      "key": "M"
     }
   ],
-  "workspace:next-tab": [
+  "window:reset-zoom": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
-      "key": "PageDown"
+      "key": "="
     }
   ],
-  "app:toggle-right-sidebar": [
+  "editor:set-heading-1": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "Tab"
+      "key": "1"
     }
   ],
-  "workspace:previous-tab": [
+  "editor:set-heading-2": [
     {
       "modifiers": [
-        "Ctrl"
+        "Alt"
       ],
-      "key": "PageUp"
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }
