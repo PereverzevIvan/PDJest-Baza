@@ -13,45 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПД Жесты.md",
+                "file": "Frontend. React.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f8f5b22b25b39bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "65c2064df413df8a",
+            "id": "5582e390fb7d0cc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование бизнес процессов. Что будет сделано.md",
+                "file": "Backend. Новый словарь.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f9413546bd80856",
+            "id": "b811281b863851a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CORE.md",
+                "file": "Точка входа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8da30ddca01c1890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "БД. Таблица жеста.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ПД Жесты.md",
+                "file": "Точка входа.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПД Жесты.md",
+                "file": "Точка входа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПД Жесты.md"
+                "file": "Точка входа.md"
               }
             }
           },
@@ -187,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПД Жесты.md",
+                "file": "Точка входа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +220,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d9437c742952f1f9",
+  "active": "b811281b863851a2",
   "lastOpenFiles": [
+    "БД.md",
+    "БД. Структура.md",
+    "Точка входа.md",
+    "БД. Рефактор.md",
+    "БД. Жест.md",
+    "БД. Таблица жеста.md",
+    "Pasted image 20240204170801.png",
+    "Pasted image 20240204170759.png",
+    "БД. Киремы и наборы кирем.md",
+    "Прочитать перед использование.md",
+    "Backend.md",
+    "Backend. Новый словарь.md",
+    "Backend. Новый словарь. Запуск проекта локально.md",
+    "Backend. Новый словарь. auth.md",
+    "Backend. Новый словарь. ns-jest.md",
+    "Backend. Golang.md",
+    "Frontend. React.md",
+    "Frontend.md",
+    "Документация (Frontend).md",
+    "Документация.md",
+    "Документация. Backend.md",
+    "Backend. Документация.md",
+    "Документация (Backend).md",
+    "3D.md",
+    "Почему obsidian.md",
+    "Как создавать и оформлять новые заметки.md",
+    "Как пользоваться obsidian для чтения.md",
     "FILES/Pasted image 20240204151425.png",
     "FILES/Pasted image 20240204145714.png",
     "FILES/Pasted image 20240204145610.png",
@@ -227,33 +258,6 @@
     "FILES/Pasted image 20240204143940.png",
     "FILES/Pasted image 20240204143419.png",
     "ПД Жесты. New_slovar.md",
-    "FILES/Pasted image 20240204141733.png",
-    "FILES/Pasted image 20240204141708.png",
-    "ПД Жесты. New_slovar. Таски.md",
-    "CORE.md",
-    "ПД Жесты. New_slovar. Таски. sync-db.md",
-    "ПД Жесты. New_slovar. Таски. Добавление жеста.md",
-    "ПД Жесты. New_slovar. Запуск Go.md",
-    "ПД Жесты.md",
-    "Проектирование бизнес процессов. Что будет сделано.md",
-    "ПД Жесты. Front.md",
-    "ПД Жесты. Рефакторинг.md",
-    "Семестр 4.md",
-    "Проектирование бизнес процессов.md",
-    "Проектирование бизнес процессов. Информация.md",
-    "Дискретная математика.md",
-    "Mospolytech.md",
-    "Web.md",
-    "Программирование.md",
-    "Другое.md",
-    "сщку.md",
-    "Семестр 3.md",
-    "Планы.md",
-    "Obsidian.md",
-    "Администрирование серверов.md",
-    "Приложения.md",
-    "VSCode.md",
-    "FILES/Pasted image 20240202145647.png",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "FILES/Obsidian.lnk",
